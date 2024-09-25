@@ -1,93 +1,57 @@
 <a href='https://github.com/Jamil226' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFCA28.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Web App Development](https://img.shields.io/badge/Web%20App%20Development-Course-Green?labelColor=Gray&style=flat)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+# AI Lab Course - Lab Work
 
-# Web Application Development Course
+Welcome to the AI Lab Course! This repository contains the lab work for the course, covering fundamental Python, essential libraries like Pandas and NumPy, working with Kaggle datasets, and advanced AI tasks using Hugging Face.
 
-In this repository you can find the following course modules:
+## Lab Outline
 
-## HTML5 
+### Lab-01: Python Fundamentals
+- Introduction to Python syntax
+- Variables, data types, and operators
+- Control structures: if-else, loops
+- Functions and modules
+- File handling in Python
 
-* HTML Basics (Lab 01)
-* HTML Advanced (Lab 02)
+### Lab-02: Pandas & NumPy Library
+- Introduction to Pandas and NumPy
+- Data manipulation using Pandas DataFrame
+- Basic operations with NumPy arrays
+- Data cleaning and analysis
+- Performing mathematical operations with NumPy
 
+### Lab-03: Kaggle Datasets
+- Introduction to Kaggle datasets
+- Downloading datasets from Kaggle
+- Exploring and visualizing data
+- Basic data preprocessing
+- Applying machine learning models on Kaggle datasets
 
-## CSS3
-* CSS Basics (Lab 03)
-* CSS Intermediate (Lab 04)
-* CSS Advanced (Lab 05 & Lab 06)
+### Lab-04: AI Text Summarization with Hugging Face
+- Introduction to Hugging Face
+- Using pre-trained models for text summarization
+- Implementing text summarization using Hugging Face transformers
+- Fine-tuning models for better performance
+- Evaluating summarization results
 
-
-## Sass: Syntactically Awesome Style Sheets
-* Saas Basics (Lab 07)
-* Saas Intermediate (Lab 08)
-* Saas Advanced (Lab 09)
-
-
-## Bootstrap 5
-* BS5 Basics (Lab 10)
-* Saas Advanced (Lab 11)
-
-
-## Javascript
-* JS Basics (Lab 12)
-* JS Advanced (Lab 13)
-
-## JQuery & AJAX (Lab 14)
-* XML
-* AJAX
-* JQuery
-
-## Responsive Themes
-* Theme Customisation (Lab 15)
-* Making Dynamic Header Footers using PHP8 (Lab 16)
-
-
-## PHP 8 & MySQL
-* PHP Basics (Lab 17)
-* PHP & MySQL Database Connection(Lab 18)
-* Secure Login with Sessions using PHP8 & MySQL (Lab 19)
-* CRUD Operations Part I (Lab 20)
-* CRUD Operations Part II (Lab 21)
-* CRUD Operations Part II (Lab 22)
-
-## Microservices (Lab 23)
-* Synchronous API Call using REST Endpoints
-* JSON Encoding/Decoding
-* Postman Collections
-* Fetch Server Response against Http in JSON
-* Sending Data using POST/PUT Methods
-
-## Laravel 11 
-* Laravel Part I (Lab 24)
-* Laravel Part II (Lab 25)
-* Laravel Part III (Lab 26)
-* Laravel Part IV (Lab 27)
-* Laravel Part V (Lab 28)
-* Laravel Part VI (Lab 29)
-* Laravel Part VII (Lab 30)
-* Laravel Part VIII (Lab 31)
+## How to Use This Repository
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/Jamil226/FA24-AI.git
 
 ## Contributing
 
