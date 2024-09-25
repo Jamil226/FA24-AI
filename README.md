@@ -14,9 +14,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-# AI Lab Course - Lab Work
+# AI Course - Lab Work
 
-Welcome to the AI Lab Course! This repository contains the lab work for the course, covering fundamental Python, essential libraries like Pandas and NumPy, working with Kaggle datasets, and advanced AI tasks using Hugging Face.
+Welcome to the AI Labs! This repository contains the lab work for the course, covering fundamental Python, essential libraries like Pandas and NumPy, working with Kaggle datasets, and advanced AI tasks using Hugging Face.
 
 ## Lab Outline
 
