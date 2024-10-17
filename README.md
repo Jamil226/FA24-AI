@@ -27,22 +27,22 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
 ## Lab Outline
 
 ### Lab-01: Python Fundamentals
-- **Introduction to Python**
-- **Variables, data types, and operators**
-- **Control structures: if-else, loops**
-- **Functions and modules**
-- **Lists, Sets, and Dictionaries**
-- **File handling in Python**
+- Introduction to Python
+- Variables, data types, and operators
+- Control structures: if-else, loops
+- Functions and modules
+- Lists, Sets, and Dictionaries
+- File handling in Python
   
 ### Lab-02: BFS and DFS
-- **Introduction to BFS and DFS**
-- **City Map Dictionary using BFS**
-- **Pathfinding in Maps using DFS**
+- Introduction to BFS and DFS
+- City Map Dictionary using BFS
+- Pathfinding in Maps using DFS
 
 ### Lab-03: Web Scrapping using BeatifulSoup
-- **Web Scrapping using BeatifulSoup**
-- **Basic Workflow of Web Scraping**
-- **How to Add a User-Agent Header**
+- Web Scrapping using BeatifulSoup
+- Basic Workflow of Web Scraping
+- How to Add a User-Agent Header
 - **HTML Parse Tree**
   - Accessing the Childs of the Tree
   - Fetching Data from Nested Childs
@@ -64,23 +64,23 @@ Introduction to the Pandas library, including installation steps, Series and Dat
   - Summing and Averaging Column Values
 ## NumPy Library
 ### NumPy Introduction
-- **Installing and Importing NumPy**
-- **Creating NumPy Arrays**
-- **Comparing NumPy Arrays and Python Lists**
-- **Performance Comparison**
-- **Input Handling and Checking Variable Types**
-- **Converting the List to a NumPy Array**
-- **Weekly Temperature Analysis Using NumPy**
-- **Weekly Sales Data Analysis Using NumPy**
-- **Introduction to 2D Arrays**
-- **Grocery Store Inventory Analysis**
+- Installing and Importing NumPy
+- Creating NumPy Arrays
+- Comparing NumPy Arrays and Python Lists
+- Performance Comparison
+- Input Handling and Checking Variable Types
+- Converting the List to a NumPy Array
+- Weekly Temperature Analysis Using NumPy
+- Weekly Sales Data Analysis Using NumPy
+- Introduction to 2D Arrays
+- Grocery Store Inventory Analysis
 
 ### Kaggle Datasets
-- **Introduction to Kaggle Datasets**
-- **Downloading Datasets from Kaggle**
-- **Exploring and Visualizing Data**
-- **Basic Data Preprocessing**
-- **Applying Machine Learning Models on Kaggle Datasets**
+- Introduction to Kaggle Datasets
+- Downloading Datasets from Kaggle
+- Exploring and Visualizing Data
+- Basic Data Preprocessing
+- Applying Machine Learning Models on Kaggle Datasets
 
 # Data Handling and Exploration
 
@@ -88,38 +88,38 @@ Introduction to the Pandas library, including installation steps, Series and Dat
 Reading data from CSV files.
 
 ## Basic Data Exploration
-- **Overview of Dataset**
-- **Data Types and Structure**
+- Overview of Dataset
+- Data Types and Structure
 
 ## Summary Statistics
-- **Descriptive Statistics**
-- **Correlation Analysis**
+- Descriptive Statistics
+- Correlation Analysis
 
 ## Missing Value Detection
-- **Identifying Missing Values**
-- **Strategies for Handling Missing Data**
+- Identifying Missing Values
+- Strategies for Handling Missing Data
 
 ## Sorting and Filtering Data
-- **Sorting DataFrames**
-- **Filtering Data Based on Conditions**
+- Sorting DataFrames
+- Filtering Data Based on Conditions
 
 ## Group By and Aggregation
-- **Grouping Data**
-- **Aggregating Functions**
+- Grouping Data
+- Aggregating Functions
 
 ## Data Visualization
-- **Importance of Visualization**
-- **Visualization Techniques**
+- Importance of Visualization
+- Visualization Techniques
 
 ## Introduction to Matplotlib
 
 ## Basics of Charts
-- **Line Chart**
-- **Pie Chart**
-- **Scatter Charts**
-- **Heatmaps**
-- **Bubble Charts**
-- **Histogram**
+- Line Chart
+- Pie Chart
+- Scatter Charts
+- Heatmaps
+- Bubble Charts
+- Histogram
 
 ## Loan Interest Rates Comparison Between Banks
 - Using Bar Plot
