@@ -27,27 +27,128 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
 ## Lab Outline
 
 ### Lab-01: Python Fundamentals
-- Introduction to Python syntax
-- Variables, data types, and operators
-- Control structures: if-else, loops
-- Functions and modules
-- File handling in Python
+- **Introduction to Python**
+- **Variables, data types, and operators**
+- **Control structures: if-else, loops**
+- **Functions and modules**
+- **Lists, Sets, and Dictionaries**
+- **File handling in Python**
+  
+### Lab-02: BFS and DFS
+- **Introduction to BFS and DFS**
+- **City Map Dictionary using BFS**
+- **Pathfinding in Maps using DFS**
 
-### Lab-02: Pandas & NumPy Library
-- Introduction to Pandas and NumPy
-- Data manipulation using Pandas DataFrame
-- Basic operations with NumPy arrays
-- Data cleaning and analysis
-- Performing mathematical operations with NumPy
+### Lab-03: Web Scrapping using BeatifulSoup
+- **Web Scrapping using BeatifulSoup**
+- **Basic Workflow of Web Scraping**
+- **How to Add a User-Agent Header**
+- **HTML Parse Tree**
+  - Accessing the Childs of the Tree
+  - Fetching Data from Nested Childs
+- **BeatifulSoup find_all() function**
+  - Extracting the Original Text from the HTML Elements and Selectors
+  - Extracting the data from Elements and Selectors
 
-### Lab-03: Kaggle Datasets
-- Introduction to Kaggle datasets
-- Downloading datasets from Kaggle
-- Exploring and visualizing data
-- Basic data preprocessing
-- Applying machine learning models on Kaggle datasets
+# Lab-04: Pandas, NumPy, and Dataset Analysis
+## Pandas Overview
+Introduction to the Pandas library, including installation steps, Series and DataFrames, and accessing DataFrame information. 
 
-### Lab-04: AI Text Summarization with Hugging Face
+### Key Operations
+- **Conditional Filtering**: Filtering data based on conditions.
+- **Handling Missing Data**: Managing and identifying missing data.
+- **Sorting and Grouping**: Techniques for organizing data.
+- **Data Manipulation**:
+  - Renaming Columns
+  - Adding New Columns
+  - Summing and Averaging Column Values
+## NumPy Library
+### NumPy Introduction
+- **Installing and Importing NumPy**
+- **Creating NumPy Arrays**
+- **Comparing NumPy Arrays and Python Lists**
+- **Performance Comparison**
+- **Input Handling and Checking Variable Types**
+- **Converting the List to a NumPy Array**
+- **Weekly Temperature Analysis Using NumPy**
+- **Weekly Sales Data Analysis Using NumPy**
+- **Introduction to 2D Arrays**
+- **Grocery Store Inventory Analysis**
+
+### Kaggle Datasets
+- **Introduction to Kaggle Datasets**
+- **Downloading Datasets from Kaggle**
+- **Exploring and Visualizing Data**
+- **Basic Data Preprocessing**
+- **Applying Machine Learning Models on Kaggle Datasets**
+
+# Data Handling and Exploration
+
+## Reading CSV File
+Reading data from CSV files.
+
+## Basic Data Exploration
+- **Overview of Dataset**
+- **Data Types and Structure**
+
+## Summary Statistics
+- **Descriptive Statistics**
+- **Correlation Analysis**
+
+## Missing Value Detection
+- **Identifying Missing Values**
+- **Strategies for Handling Missing Data**
+
+## Sorting and Filtering Data
+- **Sorting DataFrames**
+- **Filtering Data Based on Conditions**
+
+## Group By and Aggregation
+- **Grouping Data**
+- **Aggregating Functions**
+
+## Data Visualization
+- **Importance of Visualization**
+- **Visualization Techniques**
+
+## Introduction to Matplotlib
+
+## Basics of Charts
+- **Line Chart**
+- **Pie Chart**
+- **Scatter Charts**
+- **Heatmaps**
+- **Bubble Charts**
+- **Histogram**
+
+## Loan Interest Rates Comparison Between Banks
+- Using Bar Plot
+
+## Traffic Source Analysis for E-Commerce Website
+- Using Pie Chart
+
+## Daily Temperatures Analysis
+- Line Plot of Daily Temperatures
+- Bar Chart of Daily Temperatures
+- Scatter Plot of Daily Temperatures
+
+## Dataset Creation
+
+## Temperature Analysis for Sahiwal and Okara
+- Importing Libraries
+- Reading the Uploaded CSV File
+- Summary of Statistics for Numerical Columns in Dataset
+- Dataset Dimensions (Number of Rows and Columns)
+- Dataset Filtering
+- Data Visualization
+- Hottest Days
+- Average Temperature Line
+- Plot the Graph with the Highest Temperature Highlighted
+- Monthly Temperature Trends
+- Box Plot to Visualize Temperature Spread
+- Plotting the Hottest Days
+
+### Lab-06: AI Text Summarization with Hugging Face
 - Introduction to Hugging Face
 - Using pre-trained models for text summarization
 - Implementing text summarization using Hugging Face transformers
